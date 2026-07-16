@@ -92,6 +92,19 @@ Amazon Bedrock (AI Analysis)
 - Skill Gap Detection
 - Resume Improvement Suggestions
 - Streamlit Web InterfaceoDB.
-## Project Screenshot
+## Project Screenshots
 
-![Project Overview](project-overview.png)
+### Amazon S3 Bucket
+![S3 Bucket](screenshots/screenshots%20s3%20bucket.png)
+
+### AWS Lambda Function
+![Lambda Function](screenshots/Screenshot%20lambda.png)
+
+### Lambda Test Output
+![Lambda Test Output](screenshots/Screenshot%20lambda%20test%20output.png)
+
+### Amazon DynamoDB
+![DynamoDB](screenshots/Screenshot%20dynamo%20db.png)
+
+### Amazon CloudWatch Logs
+![CloudWatch Logs](screenshots/Screenshot%20watch%20log.png)
