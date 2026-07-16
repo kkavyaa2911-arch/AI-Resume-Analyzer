@@ -92,3 +92,6 @@ Amazon Bedrock (AI Analysis)
 - Skill Gap Detection
 - Resume Improvement Suggestions
 - Streamlit Web InterfaceoDB.
+## Project Screenshot
+
+![Project Overview](project-overview.png)
